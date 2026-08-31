@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.1",
-  "download_url": "https://github.com/manum406/maccounts-releases/releases/download/v1.3.1/MAccounts.exe",
-  "changelog": "Bug fixes and improvements",
-  "sha256": "c554b13f9ca8ed898c556fa1ee1f3a06fc66ef999ca929c262e3532d15f813ac"
+  "latest_version": "1.3.2",
+  "download_url": "https://github.com/manum406/maccounts-releases/releases/download/v1.3.2/MAccounts.exe",
+  "changelog": "v1.3.2 - Fixed update verification bug (stale/corrupt downloads now auto-cleared)",
+  "sha256": "8a49c3a133898d40b204b09449aaf9fbbc7609e582ade7137ffb0547f1ea9523"
 }
